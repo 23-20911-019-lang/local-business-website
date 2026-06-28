@@ -10,7 +10,6 @@ export default function Home() {
       fontSize: '2rem',
       fontFamily: 'Arial'
     }}>
-      <h1>🎉 Website is Working!</h1>
-    </div>
+<h1>🎉 Hello World!</h1>    </div>
   )
 }
