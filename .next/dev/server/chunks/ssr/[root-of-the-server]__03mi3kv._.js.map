@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/dell/Downloads/local-business-website/pages/index.js"],"sourcesContent":["export default function Home() {\r\n  return (\r\n    <div style={{\r\n      display: 'flex',\r\n      justifyContent: 'center',\r\n      alignItems: 'center',\r\n      height: '100vh',\r\n      background: '#000',\r\n      color: '#fff',\r\n      fontSize: '2rem',\r\n      fontFamily: 'Arial'\r\n    }}>\r\n      <h1>🎉 Website is Working!</h1>\r\n    </div>\r\n  )\r\n}"],"names":["Home","style","display","justifyContent","alignItems","height","background","color","fontSize","fontFamily"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,qKAAC;QAAIC,OAAO;YACVC,SAAS;YACTC,gBAAgB;YAChBC,YAAY;YACZC,QAAQ;YACRC,YAAY;YACZC,OAAO;YACPC,UAAU;YACVC,YAAY;QACd;kBACE,cAAA,qKAAC;sBAAG;;;;;;;;;;;AAGV"}}]
+}
